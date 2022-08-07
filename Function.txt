@@ -2,3 +2,4 @@ this is a test function file
 function1 ();
 function2 ();
 function3 ();
+function4 ();
